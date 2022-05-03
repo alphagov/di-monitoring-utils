@@ -226,10 +226,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-cronitor@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/cronitor/-/cronitor-2.3.1.tgz#c3e385c50b2ed07586d72f1f2126efd5ae64a3f1"
-  integrity sha512-cfXdthBhj/3sDaXi9T+Ctf0Okq+VMra2TXUfRpgHqoqtD5dqZ6CX3wbDNzbzMsUKRWpkwxc9+Klqk3ADDUhGTA==
+cronitor@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/cronitor/-/cronitor-2.3.2.tgz#d0f5226c1ad3272036268f059e6dca26b3b67c52"
+  integrity sha512-HmmIzhUvlqxnND0+4/7MPhrye5mHXpXv3ZupVyKOGFJi8rd9oO+Nz+pt8SSeERsZU51dNNv2NjqI8ig7e3Qc7g==
   dependencies:
     axios "^0.21.1"
     js-yaml "^3.14.1"
