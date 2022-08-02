@@ -7,7 +7,7 @@
     "cronitor": "^2.3.1"
   },
   "devDependencies": {
-    "aws-sdk": "^2.1090.0",
+    "aws-sdk": "^2.1186.0",
     "eslint": "^7.30.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-config-prettier": "^8.3.0",
